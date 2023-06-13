@@ -32,13 +32,13 @@
 - Creative freedom
 
 ## How I learn best
-- READING...a lot..
+- Reading...a lot..
 - Sandboxing, trying stuff out first hand
-- 
+- Videos
 
 ## As with other people with High IQs, I struggle with
-- Want to do everything myself instead of asking for help
-- Move faster than my peers, without explaining to others what I am doing and where I am going
+- Wanting to do everything myself instead of delegating or asking for help
+- Move faster than my peers, without explaining to others what I am doing and what I'm doing
 - Making references to seemingly unrelated ideas & concepts
 - Forgetting that others may not have the same level of understanding of ideas
 
