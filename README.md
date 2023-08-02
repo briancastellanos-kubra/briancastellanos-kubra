@@ -35,12 +35,13 @@
 - Reading...a lot..
 - Sandboxing, trying stuff out first hand
 - Videos
+- Asking LOTS of questions
 
 ## As with other people with High IQs, I struggle with
 - Wanting to do everything myself instead of delegating or asking for help
-- Move faster than my peers, without explaining to others what I am doing and what I'm doing
+- Move faster than my peers, without explaining to others what I am trying to accomplish or how I'm doing it
 - Making references to seemingly unrelated ideas & concepts
-- Forgetting that others may not have the same level of understanding of ideas
+- Forgetting that others may not have the same level of understanding as I do
 
 ## Things I love
 - 🤣 Jokes
