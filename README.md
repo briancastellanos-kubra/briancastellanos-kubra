@@ -19,10 +19,9 @@
 - ✔️ Slack @BrianCastellanos
 - ✔️ JIRA/Confluence @BrianCastellanos
 - ✔️ Email: brian.castellanos@kubra.com
-- ✔️ Phone: 480.242.9961
-
+  
 ## How I best recieve feedback
-- As it comes up. I should not be a person you should be afraid to talk to.
+- As it comes up. I should not be a person you are afraid to talk to.
 - During 1:1's
 
 ## Things I need
